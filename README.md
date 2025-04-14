@@ -35,4 +35,4 @@ This project explores data merging, joining, concatenation, and advanced indexin
 ---
 
 ## 💡 Outcome
-Strengthened your ability to work with multiple real-world files, perform time-based slicing, and combine datasets using core Pandas techniques.
+Strengthened the ability to work with multiple real-world files, perform time-based slicing, and combine datasets using core Pandas techniques.
